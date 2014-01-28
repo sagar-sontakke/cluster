@@ -46,8 +46,10 @@ Contents
 	  to loop, whether to broadcast/unicast messages and display intervals (after how much time to 
 	  show the current status)
 	- The functions of these parameters are mentioned in the comments
-	- To run, hit the following command:
-		$ go test github.com/sagar-sontakke/
+	- To run, hit the following command:  
+
+			$ go test github.com/sagar-sontakke/cluster  
+		  
 
 4. References
 
