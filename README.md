@@ -27,8 +27,10 @@ Contents
 		- The name of this file is as specified by the user
 		- This file contains the entries as a pair of server id and IP:port address which
 		  are comma separated
-			eg. 200, tcp://127.0.0.1:1201
-			    300, tcp://127.0.0.1:1202
+			eg. 
+			    200, tcp://127.0.0.1:1201  
+			    300, tcp://127.0.0.1:1202  
+
 		- The node ids and ip:port addresses for all the servers in a cluster must be unique
 		  else there will be a parse error
 
