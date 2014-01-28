@@ -26,8 +26,8 @@ Contents
 		- This file contains the details about each server in the cluster
 		- The name of this file is as specified by the user
 		- This file contains the entries as a pair of server id and IP:port address which
-		  are comma separated
-			eg. 
+		  are comma separated eg:  
+
 			    200, tcp://127.0.0.1:1201  
 			    300, tcp://127.0.0.1:1202  
 
